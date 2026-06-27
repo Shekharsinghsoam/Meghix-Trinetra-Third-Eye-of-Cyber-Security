@@ -37,6 +37,10 @@ MEGHIX TRINETRA provides an AI-driven solution that:
 - 📊 Simple and clean interface  
 
 ---
+## Screenshot
+
+![App Screenshot](image2.png)
+
 
 ## 🧠 How It Works  
 1. User enters a URL  
@@ -57,6 +61,4 @@ MEGHIX TRINETRA provides an AI-driven solution that:
 👉 Try the live project here:  
 https://phishing-website-detection-system-mp6d.onrender.com
 
-## Screenshot
 
-![App Screenshot](image2.png)
